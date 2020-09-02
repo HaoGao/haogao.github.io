@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-US"
 title                    : "Dr. Hao Gao"
 title_separator          : "-"
 name                     : &name "Hao Gao, PhD"
-description              : &description "Lecuture in Applied Mathematicsat University of Glasgow"
+description              : &description "personal description"
 url                      : https://haogao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haogao/haogao.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "hao.gao@glasgow.ac.uk
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &sharpgao
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
