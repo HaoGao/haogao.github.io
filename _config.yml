@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Hao Gao"
-  avatar           : "profile.png"
-  bio              : "Lecuture in Applied Mathematicsat University of Glasgow"
+  avatar           : "haogao_profile.jfif"
+  bio              : "Lecuture in Applied Mathematics at School of Mathematics and Statistics, University of Glasgow"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=hao+gao"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=hao+gao"
   googlescholar    : "https://scholar.google.co.uk/citations?user=6fABpIoAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
