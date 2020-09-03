@@ -38,4 +38,4 @@ Research Profile
 
 Publications
 ======
-published over 60 peer-reviewed journal papers and book chapters (1072 Google scholar citations, H-index of 19, i10-index of 26), the full list can be found at my Google Scholar page.
+I published over 60 peer-reviewed journal papers and book chapters (1072 Google scholar citations, H-index of 19, i10-index of 26), the full list can be found at my Google Scholar page.
