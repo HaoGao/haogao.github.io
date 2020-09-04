@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: # "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,25 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* 2020 -- current  Lecturer in Applied Mathematics, University of Glasgow
+
+* 2016 -- 2020: Research Fellow & Proleptic Lecturer
+  * School of Mathematics and Statistics, University of Glasgow
+  * Duties: MI modelling in SoftMech Centre funded by EPSRC
+
+* 2012 -- 2016: Research Fellow
+  * School of Mathematics and Statistics, University of Glasgow
+  * Duties: developing novel patient-specific heart and valve models based on clinical imaging data
+
+* 2010 -- 2012: Post-Doctoral Research Fellow
+  * Institute of Cardiovascular and Medical Science, University of Glasgow and EEE Department, University of Strathclyde, UK
+  * Duties: Initiating the GlasgowHeart consortium with Profs Luo/Berry/Soraghan, working on image processing towards patient-specific computational models
+
 Education
 ======
 * B.S. in Theoretical and Applied Mechanics, Fudan University, China
 * M.S. in  Biomedical Engineering, Fudan University, China
 * Ph.D in Biomechanics, Brunel University, UK
 
-Work experience
-======
-* 2010 -- 2012: Post-Doctoral Research Fellow
-  * Institute of Cardiovascular and Medical Science, University of Glasgow and EEE Department, University of Strathclyde, UK
-  * Duties: Initiating the GlasgowHeart consortium with Profs Luo/Berry/Soraghan, working on image processing towards patient-specific computational models
-
-* 2012 -- 2016: Research Fellow
-  * School of Mathematics and Statistics, University of Glasgow
-  * Duties: developing novel patient-specific heart and valve models based on clinical imaging data
-  
-* 2016 -- 2020: Research Fellow & Proleptic Lecturer
-  * School of Mathematics and Statistics, University of Glasgow
-  * Duties: MI modelling in SoftMech Centre funded by EPSRC
   
 Research Profile
 ======
