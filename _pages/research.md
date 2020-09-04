@@ -12,7 +12,7 @@ redirect_from:
 Cardiac function modelling
 ======
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](http://haogao.github.io/images/vector_MRI.gif)
 
 
 
