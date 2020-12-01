@@ -9,6 +9,24 @@ author_profile: true
 
 Full version in [PDF](http://haogao.github.io/files/CV_HG_updated_2020.pdf)
 
+1. L. Romaszko, A. Borowska, A. Lazarus, D. Dalton, C. Berry, X. L. Luo, D. Husmeier, 
+and G. Hao. Neural network-based left ventricle geometry prediction from cmr images 
+with application in biomechanics, 2020, submitted
+
+1. P. Mortensen, H. Gao, G. Smith, and R. Simitev. ction potential propagation and block 
+in a model of atrial tissue with myocyte-fibroblast coupling, 2020, submitted
+
+1. L. Feng, H. Gao, N. Qi, M. Danton, N. Hill, and X. Luo. Fluid-structure interaction in 
+a fully coupled three-dimensional mitral-atrium-pulmonary model, 2020, submitted
+
+1. A. Borowska, H. Gao, A. Lazarus, and D. Husmeier. Bayesian optimisation for efficient 
+parameter inference in a cardiac mechanics model of the left ventricle, 2020, submitted
+
+1. S. Richardson, H. Gao, J. Cox, R. Janiczek, B. Griffith, C. Berry, and X. Luo. A poroelastic 
+immersed finite element framework for modeling cardiac perfusion and fluid-structure interaction, 2020, submitted
+
+1. D. Guan, X. Zhuan, W. Holmes, X. Luo, and H. Gao. Modelling of fibre dispersion and its 
+effects on cardiac mechanics from diastole to systole, 2020, submitted
 
 1. W. Li, H. Gao, K. Mangion, B. Colin, and X. Luo. Apparent growth tensor of left ventricular
 post myocardial infarction – in human first natural history study, 2020, submitted
@@ -49,16 +67,20 @@ of left atrium, coupled to mitral valve and fluid-structure interaction. Interna
 Numerical Methods in Biomedical Engineering, accepted
 
 1. L. Cai, M. Guo, X. Feng, W. Ying, H. Gao, and X. Luo. Nonstandard finite difference method
-for nonlinear riesz space fractional reaction-diffusion equation. International Journal of Numerical Analysis and Modeling, 16:925–938, accepted
+for nonlinear riesz space fractional reaction-diffusion equation. International Journal of Numerical 
+Analysis and Modeling, 16:925–938, accepted
 
 1. Z. Duanmu, W. Chen, H. Gao, X. Yang, X. Luo, T. Wang, and N. Hill. A computational model
 of the coronary arterial tree. Frontiers Physiology, accepted
 
 1. V. Davies, U. Noe, A. Lazarus, H. Gao, B. Macdonald, C. Berry, X. Luo, and D. Husmeier. `
-Fast parameter inference in a biomechanical model of the left ventricle using statistical emulation. submitted to Journal of the Royal Statistical Society: Applied Statistics, arXiv preprint. arXiv:1905.06310, accepted, 2019
+Fast parameter inference in a biomechanical model of the left ventricle using statistical emulation. 
+submitted to Journal of the Royal Statistical Society: Applied Statistics, arXiv preprint. arXiv:1905.06310, 
+accepted, 2019
 
 1. U. Noe, A. Lazarus, H. Gao, V. Davies, B. Macdonald, K. Mangion, C. Berry, X. Luo, and
-D. Husmeier. Gaussian process emulation to accelerate parameter estimation in a mechanical model of the left ventricle: a critical step towards clinical end-user relevance. Journal of the Royal Society: Interface, 2019
+D. Husmeier. Gaussian process emulation to accelerate parameter estimation in a mechanical model of the 
+left ventricle: a critical step towards clinical end-user relevance. Journal of the Royal Society: Interface, 2019
 
 1. D. Guan, F. Ahmad, P. Theobald, S. Soe, X. Luo, and H. Gao. On the aic-based model
 reduction for the general holzapfel–ogden myocardial constitutive law. Biomechanics and
@@ -72,15 +94,19 @@ Journal of Applied Mathematics, 2018
 of lv post myocardial infarction. International Journal for Numerical Methods in Biomedical
 Engineering, accept, 2018
 
-1. K. Mangion, H. Gao, D. Husmeier, X. Luo, and C. Berry. Recent developments in personalized medicine using image-based biomechanical modelling in myocardial infarction. Heart, 104(7):550–557, 2018
+1. K. Mangion, H. Gao, D. Husmeier, X. Luo, and C. Berry. Recent developments in personalized medicine 
+using image-based biomechanical modelling in myocardial infarction. Heart, 104(7):550–557, 2018
 
-1. H. Gao, A. Aderhold, K. Mangion, X. Luo, D. Husmeier, and C. Berry. Changes and classification in myocardial contractile function in the left ventricle following acute myocardial infarction. Journal of The Royal Society Interface, 14(132):20170203, 2017
+1. H. Gao, A. Aderhold, K. Mangion, X. Luo, D. Husmeier, and C. Berry. Changes and classification in myocardial 
+contractile function in the left ventricle following acute myocardial infarction. Journal of The Royal 
+Society Interface, 14(132):20170203, 2017
 
 1. H. Gao, L. Feng, N. Qi, B. Griffith, C. Berry, and X. Luo. A coupled mitral valve – left ventricle
 model with fluid-structure interaction. Journal of Medical Engineering & Physics, 2017
 
 1. H. Gao, K. Mangion, D. Carrick, D. Husmeier, X. Luo, and C. Berry. Estimating myocardial
-contractility in acute mi survivors with left ventricular dysfunction from personalised computational heart models. Scientific Report, Accepted, 2017
+contractility in acute mi survivors with left ventricular dysfunction from personalised computational heart models. 
+Scientific Report, Accepted, 2017
 
 1. L. Cai, Y. Wang, H. c. a. Gao, Y. Li, and X. Luo. A mathematical model for active contraction
 in healthy and failing myocytes and left ventricles. PLoS ONE, 12(4):e0174834, 2017
@@ -89,10 +115,12 @@ in healthy and failing myocytes and left ventricles. PLoS ONE, 12(4):e0174834, 2
 dynamics–current trend and future directions. International Journal for Numerical Methods
 in Biomedical Engineering, 2016
 
-1. A. Van Hirtum, B. Wu, H. Gao, and X. Luo. Constricted channel flow with different crosssection shapes. European Journal of Mechanics-B/Fluids, 63:1–8, 2017
+1. A. Van Hirtum, B. Wu, H. Gao, and X. Luo. Constricted channel flow with different crosssection shapes. 
+European Journal of Mechanics-B/Fluids, 63:1–8, 2017
 
 1. K. Mangion, H. Gao, C. McComb, D. Carrick, G. Clerfond, X. Zhong, X. Luo, C. Haig, and
-C. Berry. A novel method for estimating myocardial strain: Assessment of deformation tracking against reference magnetic resonance methods in healthy volunteers. Scientific Reports, 6, 2016
+C. Berry. A novel method for estimating myocardial strain: Assessment of deformation tracking against 
+reference magnetic resonance methods in healthy volunteers. Scientific Reports, 6, 2016
 
 1. W. Chen, H. Gao, X. Luo, and N. Hill. Study of cardiovascular function using a coupled left
 ventricle and systemic circulation model. Journal of biomechanics, 49(12):2445–2454, 2016
@@ -120,15 +148,18 @@ for healthy myocardium. Journal of engineering mathematics, 95(1):231–248, 201
 1. L. Cai, H. Gao, X. Luo, and Y. Nie. Multi-scale modelling of the human left ventricle. Scientia
 Sinica Physica, Mechanica & Astronomica, 45:024702, 2015
 
-1. H. Gao, D. Carrick, C. Berry, B. Griffith, and X. Luo. Dynamic finite-strain modelling of the human left ventricle in health and disease using an immersed boundary-finite element method. IMA Journal of Applied Mathematics, 79:978–1010, 2014
+1. H. Gao, D. Carrick, C. Berry, B. Griffith, and X. Luo. Dynamic finite-strain modelling of the human left 
+ventricle in health and disease using an immersed boundary-finite element method. IMA Journal of Applied Mathematics, 79:978–1010, 2014
 
 1. H. Gao, H. Wang, C. Berry, X. Luo, and B. E. Griffith. Quasi-static image-based immersed
 boundary-finite element model of left ventricle under diastolic loading. International journal
 for numerical methods in biomedical engineering, 30:1199–1222, 2014
 
-1. H. Gao, A. Allan, C. McComb, X. Luo, and C. Berry. Left ventricular strain and its pattern estimated from cine cmr and validation with dense. Physics in medicine and biology, 59(13):3637, 2014
+1. H. Gao, A. Allan, C. McComb, X. Luo, and C. Berry. Left ventricular strain and its pattern estimated from 
+cine cmr and validation with dense. Physics in medicine and biology, 59(13):3637, 2014
 
-1. H. Wang, X. Luo, H. Gao, R. Ogden, B. Griffith, C. Berry, and T. Wang. A modified holzapfelogden law for a residually stressed finite strain model of the human left ventricle in diastole. Biomechanics and modeling in mechanobiology, 13(1):99–113, 2014
+1. H. Wang, X. Luo, H. Gao, R. Ogden, B. Griffith, C. Berry, and T. Wang. A modified holzapfelogden law for a 
+residually stressed finite strain model of the human left ventricle in diastole. Biomechanics and modeling in mechanobiology, 13(1):99–113, 2014
 
 1. L. Saba, H. Gao, E. Raz, S. V. Sree, L. Mannelli, N. Tallapally, F. Molinari, P. P. Bassareo,
 U. R. Acharya, H. Poppert, et al. Semiautomated analysis of carotid artery wall thickness in
@@ -153,7 +184,8 @@ of myocardial oedema in patients with acute myocardial infarction using bright b
 weighted cmr. Journal of Cardiovascular Magnetic Resonance, 15(1):28, 2013
 
 1. L. Saba, N. Tallapally, H. Gao, F. Molinari, M. Anzidei, M. Piga, R. Sanfilippo, and J. S. Suri.
-Semiautomated and automated algorithms for analysis of the carotid artery wall on computed tomography and sonography a correlation study. Journal of Ultrasound in Medicine,
+Semiautomated and automated algorithms for analysis of the carotid artery wall on computed tomography and 
+sonography a correlation study. Journal of Ultrasound in Medicine,
 32(4):665–674, 2013
 
 1. U. Acharya, S. V. Sree, M. Mookiah, L. Saba, H. Gao, G. Mallarini, and J. Suri. Computed
@@ -187,7 +219,8 @@ vivo magnetic resonance imaging. Journal of Magnetic resonance imaging, 30(1):85
 2009
 
 1. H. Gao, Q. Long, U. Sadat, M. Graves, J. Gillard, and Z. Li. Stress analysis of carotid
-atheroma in a transient ischaemic attack patient using the mri-based fluid–structure interaction method. The British Journal of Radiology, 82:46–54, 2009
+atheroma in a transient ischaemic attack patient using the mri-based fluid–structure interaction method. 
+The British Journal of Radiology, 82:46–54, 2009
 
 1. H. Gao and Q. Long. Effects of varied lipid core volume and fibrous cap thickness on stress
 distribution in carotid arterial plaques. Journal of biomechanics, 41(14):3053–3059, 2008
@@ -199,18 +232,22 @@ angiogenesis. J. Med. Biomech, 21(4):272–279, 2006
 1. H. Gao, S. Xu, Y. Cai, and M. Collins. Numerical simulation of tumor-induced angiogenesis
 in and out of tumor incorporating mechanical effects. J. Med. Biomech, 21:1–7, 2006
 
-1. H. Gao, S. Xu, Y. Cai, M. Collins, y. Jiang, and J. Wang. Computation of hemodynamics in solid tumor based on the model of angiogenesis. Chinese Quarterly of Mechanics,
+1. H. Gao, S. Xu, Y. Cai, M. Collins, y. Jiang, and J. Wang. Computation of hemodynamics in solid 
+tumor based on the model of angiogenesis. Chinese Quarterly of Mechanics,
 27(3):449–453, 2006
 
-1. H. Gao, S. Xu, Y. Cai, and M. Collins. Two dimensional mathematical models of tumorinduced angiogenesis. Chinese Quarterly of Mechanics, 26(3):468–471, 2005
+1. H. Gao, S. Xu, Y. Cai, and M. Collins. Two dimensional mathematical models of tumorinduced angiogenesis.
+Chinese Quarterly of Mechanics, 26(3):468–471, 2005
 
-1. Y. Cai, Y. Liu, H. Gao, Y. Jiang, G. Wu, and S. Xu. Predicted mathematical model of intracranial pressure through lumbar cerebrospinal fluid pressure. Chinese Quarterly of Mechanics, 4:029, 2005
+1. Y. Cai, Y. Liu, H. Gao, Y. Jiang, G. Wu, and S. Xu. Predicted mathematical model of intracranial pressure 
+through lumbar cerebrospinal fluid pressure. Chinese Quarterly of Mechanics, 4:029, 2005
 
 1. Y. Cai, S. Xu, y. Jiang, and H. Gao. Blood flow in a coronary capillary considering influence of
 vessel nonlinear length chang and inflitration. Chinese Quarterly of Mechanics, 26(2):241–
 247, 2005
 
-1. Y. Cai, Y. Liu, H. Gao, and et al. Numerical simulation of cerebral hemodynamics and intracranial pressure dynamics. Chinese Quarterly of Mechanics, 26(3):455–458, 2005
+1. Y. Cai, Y. Liu, H. Gao, and et al. Numerical simulation of cerebral hemodynamics and intracranial pressure 
+dynamics. Chinese Quarterly of Mechanics, 26(3):455–458, 2005
 
 1. Y. Liu, G. Wu, F. Yuan, Y. Jiang, H. Gao, and S. Xu. Pulse pressure and mean pressure
 relationship of intracranial pressure and lumbar cerebrospinal fluid pressure. J. Biomed.
