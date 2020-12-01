@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Hao Gao"
+title                    : "Dr Hao Gao"
 title_separator          : "-"
 name                     : &name "Hao Gao, PhD"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Hao Gao"
+  name             : "Dr Hao Gao"
   avatar           : "haogao_profile.jfif"
   bio              : "Lecuturer in Applied Mathematics at School of Mathematics and Statistics, University of Glasgow"
   location         : "Location"
