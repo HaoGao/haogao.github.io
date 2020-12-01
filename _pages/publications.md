@@ -270,4 +270,5 @@ PhD Thesis
 =====
 
 H. Gao. Carotid plaque stress analysis by fluid structure interaction based on in-vivo mri:
-Implications to plaque vulnerability assessment. 2010, Brunel Unviversity, UK. [PDF](http://haogao.github.io/files/HGaoPhDThesis.pdf)
+Implications to plaque vulnerability assessment. 2010, Brunel Unviversity, UK. 
+[PDF](http://haogao.github.io/files/HGaoPhDThesis.pdf)
