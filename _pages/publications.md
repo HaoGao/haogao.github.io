@@ -9,9 +9,9 @@ author_profile: true
 
 Full version in [PDF](http://haogao.github.io/files/CV_HG_updated_2020.pdf)
 
-1. L. Romaszko, A. Borowska, A. Lazarus, D. Dalton, C. Berry, X. L. Luo, D. Husmeier, 
+1. <font color='blue'> L. Romaszko, A. Borowska, A. Lazarus, D. Dalton, C. Berry, X. L. Luo, D. Husmeier, 
 and G. Hao. Neural network-based left ventricle geometry prediction from cmr images 
-with application in biomechanics, 2020, submitted
+with application in biomechanics, 2020, submitted </font>
 
 1. P. Mortensen, H. Gao, G. Smith, and R. Simitev. ction potential propagation and block 
 in a model of atrial tissue with myocyte-fibroblast coupling, 2020, submitted
