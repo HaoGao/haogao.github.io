@@ -13,32 +13,32 @@ Full version in [PDF](http://haogao.github.io/files/CV_HG_updated_2020.pdf)
 and G. Hao. Neural network-based left ventricle geometry prediction from cmr images 
 with application in biomechanics, 2020, submitted </font>
 
-1. P. Mortensen, H. Gao, G. Smith, and R. Simitev. ction potential propagation and block 
-in a model of atrial tissue with myocyte-fibroblast coupling, 2020, submitted
+1. <font color='blue'> P. Mortensen, H. Gao, G. Smith, and R. Simitev. ction potential propagation and block 
+in a model of atrial tissue with myocyte-fibroblast coupling, 2020, submitted </font>
 
-1. L. Feng, H. Gao, N. Qi, M. Danton, N. Hill, and X. Luo. Fluid-structure interaction in 
-a fully coupled three-dimensional mitral-atrium-pulmonary model, 2020, submitted
+1. <font color='blue'> L. Feng, H. Gao, N. Qi, M. Danton, N. Hill, and X. Luo. Fluid-structure interaction in 
+a fully coupled three-dimensional mitral-atrium-pulmonary model, 2020, submitted </font>
 
-1. A. Borowska, H. Gao, A. Lazarus, and D. Husmeier. Bayesian optimisation for efficient 
-parameter inference in a cardiac mechanics model of the left ventricle, 2020, submitted
+1. <font color='blue'> A. Borowska, H. Gao, A. Lazarus, and D. Husmeier. Bayesian optimisation for efficient 
+parameter inference in a cardiac mechanics model of the left ventricle, 2020, submitted </font>
 
-1. S. Richardson, H. Gao, J. Cox, R. Janiczek, B. Griffith, C. Berry, and X. Luo. A poroelastic 
-immersed finite element framework for modeling cardiac perfusion and fluid-structure interaction, 2020, submitted
+1. <font color='blue'> S. Richardson, H. Gao, J. Cox, R. Janiczek, B. Griffith, C. Berry, and X. Luo. A poroelastic 
+immersed finite element framework for modeling cardiac perfusion and fluid-structure interaction, 2020, submitted </font>
 
-1. D. Guan, X. Zhuan, W. Holmes, X. Luo, and H. Gao. Modelling of fibre dispersion and its 
-effects on cardiac mechanics from diastole to systole, 2020, submitted
+1. <font color='blue'> D. Guan, X. Zhuan, W. Holmes, X. Luo, and H. Gao. Modelling of fibre dispersion and its 
+effects on cardiac mechanics from diastole to systole, 2020, submitted </font>
 
-1. W. Li, H. Gao, K. Mangion, B. Colin, and X. Luo. Apparent growth tensor of left ventricular
-post myocardial infarction – in human first natural history study, 2020, submitted
+1. <font color='blue'> W. Li, H. Gao, K. Mangion, B. Colin, and X. Luo. Apparent growth tensor of left ventricular
+post myocardial infarction – in human first natural history study, 2020, submitted </font>
 
-1. A. Lazarus, H. Gao, X. Luo, and D. Husmeier. Improving cardio-mechanic inference by
-combining in-vivo strain data with ex-vivo volume-pressure data, 2020, submitted
+1. <font color='blue'> A. Lazarus, H. Gao, X. Luo, and D. Husmeier. Improving cardio-mechanic inference by
+combining in-vivo strain data with ex-vivo volume-pressure data, 2020, submitted </font>
 
-1. Y. Wang, L. Cai, X. Feng, X. Luo, and H. Gao. A ghost structure finite difference method for a
-fractional fitzhugh-nagumo monodomain model on moving irregular domain, 2020, submitted
+1. <font color='blue'> Y. Wang, L. Cai, X. Feng, X. Luo, and H. Gao. A ghost structure finite difference method for a
+fractional fitzhugh-nagumo monodomain model on moving irregular domain, 2020, submitted </font>
 
-1. L. Cai, L. Ren, Y. Wang, Y. Li, W. Xie, and H. Gao. Surrogate models based on machine
-learning methods for parameter estimation of left ventricular myocardium, 2020, submitted
+1. <font color='blue'> L. Cai, L. Ren, Y. Wang, Y. Li, W. Xie, and H. Gao. Surrogate models based on machine
+learning methods for parameter estimation of left ventricular myocardium, 2020, submitted </font>
 
 1. D. Guan, J. Yao, X. Luo, and H. Gao. Effects of myofibre architecture on neonatal porcine
 ventricular pump function. Royal Society Open Science, 7(4):191655, 2020
