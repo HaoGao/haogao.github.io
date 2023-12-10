@@ -1,13 +1,17 @@
+---
 layout: archive
-title: "Repositories"
+title: # "CV"
 permalink: /repositories/
 author_profile: true
+redirect_from:
+  - /resume
+---
 
 {% include base_path %}
 
-## Statistical Emulation
+### Statistical Emulation
 
-Data-driven Graph Nerual Network of Myocaridal Passive Mechanics (https://github.com/dodaltuin/passive-lv-gnn-emul/tree/main)
+Cardiac function modelling
 ======
 
-This is the repository accompanying the paper "Emulation of Cardiac Mechanics using Graph Neural Networks", in which the Graph Neural Network is used to emulate left ventricular passive filling. 
+![Alt Text](http://haogao.github.io/images/vector_MRI.gif)
