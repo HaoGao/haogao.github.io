@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-Full version in [PDF](http://haogao.github.io/files/CV_HG_updated_2020.pdf)
+[//]: # "Comment"
+
+[//]: # (Full version in [PDF](http://haogao.github.io/files/CV_HG_updated_2020.pdf))
 
 ### 2023 
 1. D. Dalton, D. Husmeier, and H. Gao. Physics-informed graph neural network emulation of

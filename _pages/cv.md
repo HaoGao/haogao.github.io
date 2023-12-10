@@ -11,7 +11,10 @@ redirect_from:
 
 Work experience
 ======
-* 2020 --   Lecturer/Senior Lecturer in Applied Mathematics, University of Glasgow
+
+* 2023 --       Senior Lecturer, University of Glasgow
+
+* 2020 -- 2023  Lecturer Lecturer in Applied Mathematics, University of Glasgow
 
 * 2016 -- 2020: Research Fellow & Proleptic Lecturer
   * School of Mathematics and Statistics, University of Glasgow
@@ -41,4 +44,4 @@ Research Profile
 
 Publications
 ======
-Over 90 peer-reviewed journal papers and book chapters (1078 Google scholar citations, H-index of 27, i10-index of 45), the full list can be found at my Google Scholar page.
+Over 100 peer-reviewed journal papers and book chapters (2100 Google scholar citations, H-index of 28, i10-index of 50), the full list can be found at my Google Scholar page.
