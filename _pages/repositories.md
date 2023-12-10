@@ -21,7 +21,7 @@ redirect_from:
 
 * [Gaussian process in Cardiac Mechanics: I](https://github.com/vinnydavies/left-ventricle-jrss-c)
 
-* [Gaussian process in Cardiac Mechanics: II] (https://github.com/lazarusal/LV-paper-code)
+* [Gaussian process in Cardiac Mechanics: II](https://github.com/lazarusal/LV-paper-code)
 
 
 ## Cardiac Modelling 
