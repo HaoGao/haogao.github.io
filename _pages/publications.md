@@ -111,7 +111,7 @@ paper award)
 time series gaussian process. In Proceedings of the 37th Internatinoal Workshop
 on Statistical Modelling, Dortmound, Germany, 2023
 
-4. D. uan, Y. Wang, X. Luo, M. Danton, and H. Gao. A modelling study of pulmonary regurgitation 
+4. D. Guan, Y. Wang, X. Luo, M. Danton, and H. Gao. A modelling study of pulmonary regurgitation 
 in a personalized human heart. In International Conference on Functional Imaging
 and Modeling of the Heart, pages 585–593. Springer, 2023
 
