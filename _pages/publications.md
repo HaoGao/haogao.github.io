@@ -11,6 +11,94 @@ author_profile: true
 
 [//]: # (Full version in [PDF](http://haogao.github.io/files/CV_HG_updated_2020.pdf))
 
+### 2025
+
+1. D. Guan and H. Gao. A modelling study of right ventricular dynamics with valvular regurgitation.
+   In FIMH 2025: 13th Functional Imaging and Modeling of the Heart International 
+Conference. Springer, 2025
+
+3. S. Donaldson, H. Gao, N. Hill, and X. Luo. A new active strain model for modelling left
+ventricular contraction. In FIMH 2025: 13th Functional Imaging and Modeling of the Heart International 
+Conference. Springer, 2025
+
+4. P.-F. Villard, P. Hammer, M.-O. Berger, and H. Gao. Universal coordinates and parametrization
+  methods for mitral valve dynamic simulations. In FIMH 2025: 13th Functional Imaging and Modeling of the Heart International 
+Conference. Springer, 2025
+
+5. D. Guan, X. Luo, and H. Gao. Constrained mixture models of growth and remodelling in an
+infarct left ventricle: a modelling study. Journal of the Mechanics and Physics of Solids, page 
+106121, 2025
+
+6. X. Wang, L. Cai, P. Ma, and H. Gao. An efﬁcient staggered scheme for solving the porome-
+chanics problem of quasi-static cardiac perfusion. International Journal for Numerical Meth-
+ods in Biomedical Engineering, 41(4):e70030, 2025
+
+7. H. Gao, D. Guan, and P.-F. Villard. Assessing left ventricular pump function using an
+immersed boundary method combined with ﬁnite elements. International Journal of Fluid En-
+gineering, 2(2):024302, 02 2025
+
+8. J. Ju, Y. Cai, H. Gao, T. Yang, and S. Wang. Quantitative in silico analysis for patient-speciﬁc 
+annuloplasty in bicuspid aortic valve regurgitation. Journal of the Mechanical Behavior of 
+Biomedical Materials, 162:106829, 2025
+
+9. Y. Ge, D. Husmeier, A. Rabbani, and H. Gao. Advanced statistical inference of myocardial 
+stiffness: A time series gaussian process approach of emulating cardiac mechanics for real-
+time clinical decision support. Computers in Biology and Medicine, 184:109381
+
+10. JH Lee, H Gao, M Döllinger. Integrating Machine Learning with Physics-based Modeling of
+11. Physiological Systems Frontiers in Physiology 16, 1562750
+
+### 2024 
+1. Q. Chen, L. Cai, F. Jing, P. Ma, X. Luo, and H. Gao. On the immersed boundary method with 
+time-ﬁlter-sav for solving ﬂuid–structure interaction problem. Journal of Scientiﬁc Computing, 
+100(2):45, 2024
+
+2. P. Ma, L. Cai, X. Wang, Y. Wang, X. Luo, and H. Gao. An unconditionally stable scheme for 
+the immersed boundary method with application in cardiac mechanics. Physics of Fluids, 
+36(8):081914, 08 2024
+
+3. S. Richardson, J. Mackenzie, N. Thekkethil, L. Feng, J. Lee, C. Berry, H. Hill, Nicholas, and 
+H. Gao. Cardiac perfusion coupled with a structured coronary network tree. Computer 
+Methods in Applied Mechanics and Engineering, page 117083, 2024
+
+4. B. Wang, L. Feng, L. X. Xu, H. Gao, X. Luo, and N. Qi. Three-dimensional ﬂuid-structure 
+interaction modelling of the venous valve using immersed boundary/ﬁnite element method. 
+Computers in Biology and Medicine 185, 109450
+
+5. S. Lv, Q. Cheng, H. Gong, H. Gao, D. Zhou, and Z. Duanmu. Developing a silicon beam
+emulator using graph attention networks. IEEE Access, pages 1–11, 2024
+
+6. L. Cai, Q. Zhong, J. Xu, Y. Huang, and H. Gao. A lumped parameter model for evaluating
+   coronary artery blood supply capacity. Mathematical Biosciences and Engineering, 
+21:5838–5862, 2024
+
+8. D. Dalton, A. Lazarus, H. Gao, and D. Husmeier. Hard-constrained gaussian processes for 
+robust physics-informed machine learning of linear partial differential equations. Journal of 
+Machine Learning Research, page accepted, 2024
+
+9. D. Dalton, D. Husmeier, and H. Gao. Physics and lie symmetry informed gaussian processes.
+In Forty-ﬁrst International Conference on Machine Learning, 2024
+
+10. D. Guan, L. Tian, W. Li, and H. Gao. Using lddmm and a kinematic cardiac growth model to
+quantify growth and remodelling in rat hearts under pah. Computers in Biology and Medicine, 
+171:108218, 2024
+
+11. X. Zhuan, D. Guan, H. Gao, P. THeobald, and X. Luo. A mixed trigger volumetric growth law.
+Mathematics and Mechanics of Solids, 29:1915–1931, 2024
+
+12. Y. Yang, H. Gao, C. Berry, A. Radjenovic, and D. Husmeier. Automatic lesion detection in
+myocardial perfusion dynamic contrast enhanced magnetic resonance images using hierar-
+chical bayesian models with spatio-temporal markov random ﬁelds. Computerized Medical 
+Imaging and Graphics, 113:102333, 2024
+
+13. L. Feng, H. Gao, and X. Luo. Whole-heart modelling with valves in a ﬂuid-structure interaction
+framework. Computer Methods in Applied Mechanics and Engineering, 420:116724, 2024
+
+14. J. Zhou, D. Husmeier, H. Gao, C. Yin, C. Qiu, X. Jing, Y. Qi, and W. Liu. Bayesian inver-
+sion of frequency-domain airborne em data with spatial correlation prior information. IEEE 
+Transactions on Geoscience and Remote Sensing, 62:1–16, 2024
+
+
 ### 2023 
 1. D. Dalton, D. Husmeier, and H. Gao. Physics-informed graph neural network emulation of
 soft-tissue mechanics computer methods in applied mechanics and engineering. Computer 
