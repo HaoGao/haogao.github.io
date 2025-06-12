@@ -46,7 +46,7 @@ stiffness: A time series gaussian process approach of emulating cardiac mechanic
 time clinical decision support. Computers in Biology and Medicine, 184:109381
 
 10. JH Lee, H Gao, M Döllinger. Integrating Machine Learning with Physics-based Modeling of
-11. Physiological Systems Frontiers in Physiology 16, 1562750
+    Physiological Systems Frontiers in Physiology 16, 1562750
 
 ### 2024 
 1. Q. Chen, L. Cai, F. Jing, P. Ma, X. Luo, and H. Gao. On the immersed boundary method with 
