@@ -30,12 +30,10 @@ infarct left ventricle: a modelling study. Journal of the Mechanics and Physics 
 106121, 2025
 
 6. X. Wang, L. Cai, P. Ma, and H. Gao. An efﬁcient staggered scheme for solving the porome-
-chanics problem of quasi-static cardiac perfusion. International Journal for Numerical Meth-
-ods in Biomedical Engineering, 41(4):e70030, 2025
+chanics problem of quasi-static cardiac perfusion. International Journal for Numerical Methods in Biomedical Engineering, 41(4):e70030, 2025
 
 7. H. Gao, D. Guan, and P.-F. Villard. Assessing left ventricular pump function using an
-immersed boundary method combined with ﬁnite elements. International Journal of Fluid En-
-gineering, 2(2):024302, 02 2025
+immersed boundary method combined with ﬁnite elements. International Journal of Fluid Engineering, 2(2):024302, 02 2025
 
 8. J. Ju, Y. Cai, H. Gao, T. Yang, and S. Wang. Quantitative in silico analysis for patient-speciﬁc 
 annuloplasty in bicuspid aortic valve regurgitation. Journal of the Mechanical Behavior of 
