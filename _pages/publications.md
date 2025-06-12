@@ -85,16 +85,20 @@ quantify growth and remodelling in rat hearts under pah. Computers in Biology an
 Mathematics and Mechanics of Solids, 29:1915–1931, 2024
 
 12. Y. Yang, H. Gao, C. Berry, A. Radjenovic, and D. Husmeier. Automatic lesion detection in
-myocardial perfusion dynamic contrast enhanced magnetic resonance images using hierar-
-chical bayesian models with spatio-temporal markov random ﬁelds. Computerized Medical 
+myocardial perfusion dynamic contrast enhanced magnetic resonance images using hierarchical
+bayesian models with spatio-temporal markov random ﬁelds. Computerized Medical 
 Imaging and Graphics, 113:102333, 2024
 
-13. L. Feng, H. Gao, and X. Luo. Whole-heart modelling with valves in a ﬂuid-structure interaction
+14. L. Feng, H. Gao, and X. Luo. Whole-heart modelling with valves in a ﬂuid-structure interaction
 framework. Computer Methods in Applied Mechanics and Engineering, 420:116724, 2024
 
-14. J. Zhou, D. Husmeier, H. Gao, C. Yin, C. Qiu, X. Jing, Y. Qi, and W. Liu. Bayesian inver-
-sion of frequency-domain airborne em data with spatial correlation prior information. IEEE 
+15. J. Zhou, D. Husmeier, H. Gao, C. Yin, C. Qiu, X. Jing, Y. Qi, and W. Liu. Bayesian inversion
+    of frequency-domain airborne em data with spatial correlation prior information. IEEE 
 Transactions on Geoscience and Remote Sensing, 62:1–16, 2024
+
+16. J Zhang, D Dalton, H Gao, D Husmeier. Physics-informed Deep Learning Based on the Finite Difference
+ Method for Efficient and Accurate Numerical Solution of Partial Differential Equations. In Proceedings of the 5th International
+Conference on Statistics: Theory and Applications (ICSTA’24)
 
 
 ### 2023 
