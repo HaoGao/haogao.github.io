@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 I am a Senior Lecturer in applied mathematics at School of Mathematics and Statistics, University of Glasgow. I obtained my bachelor and master degrees in applied mechanics from Fudan University, and then pursued my PhD in computational biomechanics at Brunel University. After finishing my PhD, I spent one year in University of Strathclyde on cardiac magnetic resonance imaging process, and then moved to University of Glasgow  as a research fellow working on
-image-based cardiac function modelling, first on mitral valve, now focusing on ventricle. I am a key member of the SofTMech centre (http://www.softmech.org)  funded by UK EPSRC at University of Glasgow, and one of the founder of GlasgowHeart consortium.
+image-based cardiac function modelling, first on mitral valve, now focusing on ventricle. I am a key member of the SofTMech centre (http://www.softmech.org)  funded by UK EPSRC at University of Glasgow, and one of the founder of GlasgowHeart consortium. My university personal page can be found at https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao. 
