@@ -36,15 +36,16 @@ constitutive law, fibre dispersion, growth and remodelling, doi: 10.5525/gla.the
 
 Other invovled PhD thesis
 
-* 
+*  Qi, Nan (2016) Modelling of soft tissue and fluid structure interaction with physiological applications. PhD thesis, University of Glasgow. <https://theses.gla.ac.uk/7264>
 
-* 
+* Chen, Weiwei (2015) A coupled left ventricle and systemic arteries model. PhD thesis, University of Glasgow. <https://theses.gla.ac.uk/7037/>
 
-* 
+* Ma, Xingshuang (2014) Dynamic simulation of the mitral valve. PhD thesis, University of Glasgow. <https://theses.gla.ac.uk/4896/>
 
+### selected MSc projects
 
-### selected MSci projects
+* Adrian Bartko (10.2023 – 04.2024), Immersed Boundary methods for fluid-structure interaction. University of Glasgow.
 
-*
+* Siyu Wang (06.2024 - 08.2024), Discovery of soft tissue strain energy function using machine learning. University of Glasgow
 
-* 
+* Dhurim, Cakiqi (09.2020 – 04.2021), machine learning based surrogate modelling in cardiac mechanics, submitted on April 2020
