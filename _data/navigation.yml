@@ -15,8 +15,8 @@ main:
 #  - title: "Talks"
 #    url: /talks/
 
-#  - title: "Teaching"
-#    url: /teaching/
+  - title: "PhD Projects"
+    url: /supervisedPhDMscProjects/
 
   - title: "Repositories"
     url: /repositories/
