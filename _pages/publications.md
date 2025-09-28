@@ -13,37 +13,41 @@ author_profile: true
 
 ### 2025
 
-1. D. Guan and H. Gao. A modelling study of right ventricular dynamics with valvular regurgitation.
+1. Thekkethil, Namshad, Hao Gao, Nicholas A. Hill, and Xiaoyu Luo. "Multicompartment Darcy Flow Model With Patient‐Specific Parameterization: Effect of Heterogeneity and Anisotropy in Porous Parameters." International Journal for Numerical Methods in Biomedical Engineering 41, no. 9 (2025): e70091.
+
+2. Yang, Zhechao, Hao Gao, Godfrey L. Smith, and Radostin D. Simitev. "Dominant ionic currents in rabbit ventricular action potential dynamics." Plos one 20, no. 7 (2025): e0328261.
+
+3. D. Guan and H. Gao. A modelling study of right ventricular dynamics with valvular regurgitation.
    In FIMH 2025: 13th Functional Imaging and Modeling of the Heart International 
 Conference. Springer, 2025
 
-3. S. Donaldson, H. Gao, N. Hill, and X. Luo. A new active strain model for modelling left
+4. S. Donaldson, H. Gao, N. Hill, and X. Luo. A new active strain model for modelling left
 ventricular contraction. In FIMH 2025: 13th Functional Imaging and Modeling of the Heart International 
 Conference. Springer, 2025
 
-4. P.-F. Villard, P. Hammer, M.-O. Berger, and H. Gao. Universal coordinates and parametrization
+5. P.-F. Villard, P. Hammer, M.-O. Berger, and H. Gao. Universal coordinates and parametrization
   methods for mitral valve dynamic simulations. In FIMH 2025: 13th Functional Imaging and Modeling of the Heart International 
 Conference. Springer, 2025
 
-5. D. Guan, X. Luo, and H. Gao. Constrained mixture models of growth and remodelling in an
+6. D. Guan, X. Luo, and H. Gao. Constrained mixture models of growth and remodelling in an
 infarct left ventricle: a modelling study. Journal of the Mechanics and Physics of Solids, page 
 106121, 2025
 
-6. X. Wang, L. Cai, P. Ma, and H. Gao. An efﬁcient staggered scheme for solving the porome-
+7. X. Wang, L. Cai, P. Ma, and H. Gao. An efﬁcient staggered scheme for solving the porome-
 chanics problem of quasi-static cardiac perfusion. International Journal for Numerical Methods in Biomedical Engineering, 41(4):e70030, 2025
 
-7. H. Gao, D. Guan, and P.-F. Villard. Assessing left ventricular pump function using an
+8. H. Gao, D. Guan, and P.-F. Villard. Assessing left ventricular pump function using an
 immersed boundary method combined with ﬁnite elements. International Journal of Fluid Engineering, 2(2):024302, 02 2025
 
-8. J. Ju, Y. Cai, H. Gao, T. Yang, and S. Wang. Quantitative in silico analysis for patient-speciﬁc 
+9. J. Ju, Y. Cai, H. Gao, T. Yang, and S. Wang. Quantitative in silico analysis for patient-speciﬁc 
 annuloplasty in bicuspid aortic valve regurgitation. Journal of the Mechanical Behavior of 
 Biomedical Materials, 162:106829, 2025
 
-9. Y. Ge, D. Husmeier, A. Rabbani, and H. Gao. Advanced statistical inference of myocardial 
+10. Y. Ge, D. Husmeier, A. Rabbani, and H. Gao. Advanced statistical inference of myocardial 
 stiffness: A time series gaussian process approach of emulating cardiac mechanics for real-
 time clinical decision support. Computers in Biology and Medicine, 184:109381
 
-10. JH Lee, H Gao, M Döllinger. Integrating Machine Learning with Physics-based Modeling of
+11. JH Lee, H Gao, M Döllinger. Integrating Machine Learning with Physics-based Modeling of
     Physiological Systems Frontiers in Physiology 16, 1562750
 
 ### 2024 
