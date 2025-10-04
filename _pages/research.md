@@ -13,7 +13,7 @@ Personalized computational cardiac models play a unique role in modern cardiolog
 <!-- ![Alt Text](http://haogao.github.io/images/hg_multiscale_multiphysics.png) -->
 
 <p align="center">
-  <img src="http://haogao.github.io/images/hg_multiscale_multiphysics.png" alt="Multiscale Model" style="width:60%; max-width:1000px;">
+  <img src="http://haogao.github.io/images/hg_multiscale_multiphysics.png" alt="Multiscale Model" style="width:80%; max-width:1000px;">
 </p>
 
 
