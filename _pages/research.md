@@ -21,7 +21,7 @@ Personalized computational cardiac models play a unique role in modern cardiolog
 There has been longstanding interest in modelling the complex interactions between the cardiac blood flow and the myocardial wall dynamics through fluid-structure interactions (FSI). Various cardiac FSI models have been developed using the immersed boundary method, with applications spanning a range of organs, including mitral valve, myocardial infarction, myocardial perfusion, and the four-chamber heart dynamics. 
 
 <p align="center">
-  <img src="http://haogao.github.io/images/vector_MRI.gif" alt="Multiscale Model" style="width:80%; max-width:1000px;">
+  <img src="http://haogao.github.io/images/vector_MRI.gif" alt="Multiscale Model" style="width:40%; max-width:1000px;">
 </p>
 
 ### The Heart Models
@@ -55,7 +55,7 @@ Computational modelling of cardiac growth and remodelling (G&R) has shown high p
 ### Poroelasticity in cardiac perfusion
 Myocardial perfusion plays a pivotal role in maintaining normal pump function. However the development of a comprehensive myocardial perfusion model remains particularly challenging as it requires the incorporation of complex interactions across different spatial scales and physical domains,  To model myocardial perfusion, it is also necessary to couple the coronary flow with the myocardial mechanics. Here, we have developed a poroelastic framework with in the immsered boundary method, a three-phase approach including the myocaridum, the coronary flow in large arteries and the perfusion within the microvessel network approaximated by Darcy flow, and the ventricular flow. 
 <p align="center">
-  <img src="http://haogao.github.io/images/hg_perfusion.png" alt="Multiscale Model" style="width:80%; max-width:1000px;">
+  <img src="http://haogao.github.io/images/hg_perfusion.png" alt="Multiscale Model" style="width:50%; max-width:1000px;">
 </p>
 
 ### Statistical emulation and scientific machine learning in complex systems
