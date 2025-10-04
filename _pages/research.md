@@ -31,7 +31,7 @@ There has been longstanding interest in modelling the complex interactions betwe
 
 ### The Valve Models
 <p align="center">
-  <img src="http://haogao.github.io/images/hg_valve.png" alt="Multiscale Model" style="width:80%; max-width:1000px;">
+  <img src="http://haogao.github.io/images/hg_valves.png" alt="Multiscale Model" style="width:80%; max-width:1000px;">
 </p>
 
 
