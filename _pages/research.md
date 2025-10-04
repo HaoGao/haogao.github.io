@@ -65,7 +65,9 @@ The computational costs of parameter estimation in cardiac models are prohibitiv
 </p>
 
 ### Electrophysiology and EM coupling
-
+<p align="center">
+  <img src="http://haogao.github.io/images/hg_ep.gif" alt="Multiscale Model" style="width:80%; max-width:1000px;">
+</p>
 
 ### PhD research on carotid plaque modellig
 
