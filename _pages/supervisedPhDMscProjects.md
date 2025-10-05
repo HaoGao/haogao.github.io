@@ -10,7 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ### Potential PhD projects
-
+If you are interested in studying for a PhD at the University of Glasgow with me, please contact me for details of potential projects. 
+1. **Personalized cardiac modelling** towards the digital twin (parameter inferences, biomarker discovery, etc);
+2.  **Multi-physics modelling** in cardiac mechanics by coupling blood flow, soft tissue mechanics and electrophysiology with experimental data, including human, rabbit and rat, etc.
+3.  **Immersed boundary methods** for fluid-structure interaction with applications to heart valves, coronary flow, medical devices, etc;
+4.  **Constrained-mixture theory**-based growth and remodelling in the heart (myocardial infarction, right ventricle dysfunction, congenital heart)
+5.  **Physics-informed surrogate modelling** in biomechanics (Gaussian process, inverse problem, uncertainty quantification, sensitivity study, etc);
+6. **Clinical image processing** and machine learning-based model construction (deformable image registration, automatic segmentation using machine learning-based methods, 3-D geometry reconstruction and co-registration, etc);
 
 
 ### PhD projects

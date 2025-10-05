@@ -11,7 +11,6 @@ redirect_from:
 
 Personalized computational cardiac models play a unique role in modern cardiology towards the ‘digital twins’ of the human heart. By integrating patients’ information, the knowledge of physiology, pathology and physical laws of soft tissue mechanics, solved with modern numerical methods, computational cardiology can potentially improve patient risk assessment and design new treatments.  
 <!-- ![Alt Text](http://haogao.github.io/images/hg_multiscale_multiphysics.png) -->
-
 <p align="center">
   <img src="http://haogao.github.io/images/hg_multiscale_multiphysics.png" alt="Multiscale Model" style="width:80%; max-width:1000px;">
 </p>
@@ -19,27 +18,32 @@ Personalized computational cardiac models play a unique role in modern cardiolog
 
 ### Immersed boundary methods in cardiac mechanics
 There has been longstanding interest in modelling the complex interactions between the cardiac blood flow and the myocardial wall dynamics through fluid-structure interactions (FSI). Various cardiac FSI models have been developed using the immersed boundary method, with applications spanning a range of organs, including mitral valve, myocardial infarction, myocardial perfusion, and the four-chamber heart dynamics. 
-
 <p align="center">
   <img src="http://haogao.github.io/images/vector_MRI.gif" alt="Multiscale Model" style="width:40%; max-width:1000px;">
 </p>
 
 ### The Heart Models
+Computational modelling of ventricular function can bridge the gap towards personalised medicine using cardiac imaging in patients with heart diseases, such as myocardial infarction.  Novel biomechanical parameters have theoretical prognostic value and may be useful to reflect the biomechanical effects of novel preventive therapy for adverse remodelling due to chronic disease conditions, such as hypertension, myocardial infarction, etc. 
 <p align="center">
   <img src="http://haogao.github.io/images/hg_lv.png" alt="Multiscale Model" style="width:80%; max-width:1000px;">
 </p>
 
-### The Valve Models
+### The Valve Models 
+Dysfunction of valves causes morbidity and premature mortality and remains a leading medical problem worldwide. Computational modelling aims to understand the biomechanics of human  valves  can lead to the development of new treatment, prevention and diagnosis of mitral valve diseases.
 <p align="center">
   <img src="http://haogao.github.io/images/hg_valves.png" alt="Multiscale Model" style="width:80%; max-width:1000px;">
 </p>
 
 
 ### The whole-heart function
+We are developing a four-chamber heart model featuring realistic chamber geometry, detailed valve modelling, hyperelasticity with fibre architecture and fluid–structure interaction analysis.
+<p align="center">
+  <img src="http://haogao.github.io/images/hg_wholeheart.png" alt="Multiscale Model" style="width:40%; max-width:1000px;">
+</p>
 
 
 ### Personalized modelling (constitutive modelling, parameter estimation, and clinical application)
-One remaining challenge is the personalization of these models for real-time clinical decision-making. For example, different patients have different sets of biophysical parameters that can affect the quantities of interest but require thousands of simulations of those models, which can be very computationally expensive. Also quantification of the uncertainties associated with inferred parameters from sparse measurements usually is missing from the current modelling approaches. 
+Model personalization of cardiac models is very challenging for real-time clinical decision-making. For example, different patients have different sets of biophysical parameters that can affect the quantities of interest but require thousands of simulations of those models, which can be very computationally expensive. Also quantification of the uncertainties associated with inferred parameters from sparse measurements usually is missing from the current modelling approaches. 
 <p align="center">
   <img src="http://haogao.github.io/images/hg_personalisation.png" alt="Multiscale Model" style="width:80%; max-width:1000px;">
 </p>
@@ -65,9 +69,13 @@ The computational costs of parameter estimation in cardiac models are prohibitiv
 </p>
 
 ### Electrophysiology and EM coupling
+The multiscale nature of the heart requires one to model myocyte dynamics at cellular level and the electrophysiology at tissue level, which shall be further coupled with myocardial mechanics and the ventricular flow. Understanding the electromechanics of the heart will help in developing more effective clinical treatments. 
 <p align="center">
   <img src="http://haogao.github.io/images/hg_ep.gif" alt="Multiscale Model" style="width:80%; max-width:1000px;">
 </p>
 
-### PhD research on carotid plaque modellig
-
+### Carotid plaque modellig
+During my PhD, I have worked on FSI modelling of carotid plaques and studied how biomechanics fatorcs could be used for predicting plaque rupture risk. 
+<p align="center">
+  <img src="http://haogao.github.io/images/hg_plaque.png" alt="Multiscale Model" style="width:80%; max-width:1000px;">
+</p>
