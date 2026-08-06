@@ -11,6 +11,25 @@ author_profile: true
 
 [//]: # (Full version in [PDF](http://haogao.github.io/files/CV_HG_updated_2020.pdf))
 
+### 2026 
+
+1. Dalton, David, Hao Gao, and Dirk Husmeier. ``FlowPINNs: A Variational Framework for PDE Parameter Inference and Uncertainty Quantification.'' In The 29th International Conference on Artificial Intelligence and Statistics. 2026.
+
+2. Guan, Debao, Mark Danton, and Hao Gao. ``Biomechanics modelling of right ventricular adaptation caused by pulmonary valve regurgitation and treatment.'' International Journal of Engineering Science 224 (2026): 104533.
+
+3. Gao, Yipeng, Nan Qi, Hao Gao, Youbin Deng, and Yani Liu. ``Advances in Non-Invasive Myocardial Stiffness Assessment and Clinical Applications in Hypertrophic Cardiomyopathy.'' Reviews in Cardiovascular Medicine 27, no. 3 (2026): 47459.
+
+4. Guan, Debao, Xinyang Ge, Qiaolan Wu, and Hao Gao. ``Analysis of homeostatic biomechanical thresholds in a left ventricular model of growth and remodelling.'' Journal of Biomechanics (2026): 113451.
+
+5. Guan, D., Gao, H. ``A modelling study of right ventricular growth with valvular regurgitation.'' Biomech Model Mechanobiol 25, 92 (2026). https://doi.org/10.1007/s10237-026-02113-2
+
+6. Guan, Debao, Yu Zhang, Min Zhang, and Hao Gao. ``Enhanced LDDMM frameworks for mapping short-and long-term cardiac dynamics.'' Acta Mechanica Sinica 42, no. 12 (2026): 651029.
+
+7. Duanmu, Zheng, Ning Meng, Qing Zhang, Hao Gao, Dong Zhou, and Chengshi Zheng. ``A Physics-Informed Kolmogorov–Arnold Graph Attention Network for solid mechanics on arbitrary geometries.'' Engineering Applications of Artificial Intelligence 181 (2026): 115798.
+
+8. Danyang Wanga, Hao Gao, Zishun Liu. ``Linear Stability Analysis of a Collapsible Channel Flow'' Acta Mechanica Sinica, 2026, accepted
+
+
 ### 2025
 
 1. Thekkethil, Namshad, Hao Gao, Nicholas A. Hill, and Xiaoyu Luo. "Multicompartment Darcy Flow Model With Patient‐Specific Parameterization: Effect of Heterogeneity and Anisotropy in Porous Parameters." International Journal for Numerical Methods in Biomedical Engineering 41, no. 9 (2025): e70091.
@@ -49,6 +68,8 @@ time clinical decision support. Computers in Biology and Medicine, 184:109381
 
 11. JH Lee, H Gao, M Döllinger. Integrating Machine Learning with Physics-based Modeling of
     Physiological Systems Frontiers in Physiology 16, 1562750
+
+12. Ma, Pengfei, Li Cai, Xuan Wang, and Hao Gao. "Fully GPU-accelerated, matrix-free immersed boundary method for complex fiber-reinforced hyperelastic cardiac models." Computer Methods in Applied Mechanics and Engineering 447 (2025): 118353.
 
 ### 2024 
 1. Q. Chen, L. Cai, F. Jing, P. Ma, X. Luo, and H. Gao. On the immersed boundary method with 

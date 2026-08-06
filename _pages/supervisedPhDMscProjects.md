@@ -21,7 +21,7 @@ If you are interested in studying for a PhD at the University of Glasgow with me
 
 ### PhD projects
 
-* Yuzhang Ge (2020 - 2025) Application of statistical emulation in parameter inference of personalized cardiac model. Minor revision. 
+* Yuzhang Ge (2020 - 2025) Application of statistical emulation in parameter inference of personalized cardiac model. Minor revision.
 
 * Antesar Mohammed A Al Dawoud (2019 - 2024) Mathematical modelling of electrophysiology in myocytes. Minor revision. Theses title: Applications of parameter inference and modelling in cardiac single-cell action potential models. <https://theses.gla.ac.uk/84800>
 
@@ -42,7 +42,7 @@ constitutive law, fibre dispersion, growth and remodelling, doi: 10.5525/gla.the
 
 Other invovled PhD thesis
 
-*  Qi, Nan (2016) Modelling of soft tissue and fluid structure interaction with physiological applications. PhD thesis, University of Glasgow. <https://theses.gla.ac.uk/7264>
+* Qi, Nan (2016) Modelling of soft tissue and fluid structure interaction with physiological applications. PhD thesis, University of Glasgow. <https://theses.gla.ac.uk/7264>
 
 * Chen, Weiwei (2015) A coupled left ventricle and systemic arteries model. PhD thesis, University of Glasgow. <https://theses.gla.ac.uk/7037/>
 
