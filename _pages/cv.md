@@ -34,16 +34,16 @@ Education
 ======
 * B.S. in Theoretical and Applied Mechanics, Fudan University, China
 * M.S. in  Biomedical Engineering, Fudan University, China
-* Ph.D in Biomechanics, Brunel University, UK
+* PhD in Biomechanics, Brunel University, UK
 
   
 Research Profile
 ======
-* Solid knowledge on general fluid/solid mechanics, biomechanics (biofluid and biosolid), and numerical methods including finite difference/volume/element methods;
+* Solid knowledge of general fluid/solid mechanics, biomechanics (biofluid and biosolid), and numerical methods including finite difference/volume/element methods;
 * Extensive experience in image-based biomechanical cardiovascular modelling;
 * Expertise in image processing and image-based 3D computational model construction;
-* Proficient programming ability including C/C++, Matlab, and extensive experience in a range of numerical software packages including ANSYS, ABAQUS, SolidWorks
+* Proficient programming ability including C/C++, MATLAB, and extensive experience in a range of numerical software packages including ANSYS, ABAQUS, SolidWorks
 
 Publications
 ======
-Over 100 peer-reviewed journal papers and book chapters (2900 Google scholar citations, H-index of 31, i10-index of 68), the full list can be found at my Google Scholar page.
+Over 100 peer-reviewed journal papers and book chapters. The full list can be found at my Google Scholar page.
