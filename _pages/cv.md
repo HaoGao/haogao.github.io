@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 
-* 07/2026 -- Professor of Applied Mathematics
+* 08/2026 -- Professor of Applied Mathematics
 
 * 2023 -- 07/2026      Senior Lecturer, University of Glasgow
 
