@@ -27,7 +27,7 @@ author_profile: true
 
 7. Duanmu, Zheng, Ning Meng, Qing Zhang, Hao Gao, Dong Zhou, and Chengshi Zheng. "A Physics-Informed Kolmogorov–Arnold Graph Attention Network for solid mechanics on arbitrary geometries." Engineering Applications of Artificial Intelligence 181 (2026): 115798.
 
-8. Danyang Wanga, Hao Gao, Zishun Liu. "Linear Stability Analysis of a Collapsible Channel Flow" Acta Mechanica Sinica, 2026, accepted
+8. Danyang Wang, Hao Gao, Zishun Liu. "Linear Stability Analysis of a Collapsible Channel Flow" Acta Mechanica Sinica, 2026, accepted
 
 
 ### 2025
