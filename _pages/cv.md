@@ -12,9 +12,11 @@ redirect_from:
 Work experience
 ======
 
-* 2023 --       Senior Lecturer, University of Glasgow
+* 07/2026 -- Professor of Applied Mathematics
 
-* 2020 -- 2023  Lecturer Lecturer in Applied Mathematics, University of Glasgow
+* 2023 -- 07/2026      Senior Lecturer, University of Glasgow
+
+* 2020 -- 2023   Lecturer, University of Glasgow
 
 * 2016 -- 2020: Research Fellow & Proleptic Lecturer
   * School of Mathematics and Statistics, University of Glasgow
