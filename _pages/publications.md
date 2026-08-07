@@ -29,6 +29,8 @@ author_profile: true
 
 8. Danyang Wang, Hao Gao, Zishun Liu. "Linear Stability Analysis of a Collapsible Channel Flow" Acta Mechanica Sinica, 2026, accepted
 
+9. Fullerton, Natasha E., Belinda Ding, Sydney N. Williams, Sarah Allwood-Spiers, Paul McElhinney, Divya Baskaran, Rosie Woodward et al. "Evaluation of an open-face 8-channel transmit 64-channel receive 7T head coil for neuroimaging." Frontiers in Neuroscience 20 (2026): 1811488.
+
 
 ### 2025
 
