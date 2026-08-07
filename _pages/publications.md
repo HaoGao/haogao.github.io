@@ -9,7 +9,7 @@ author_profile: true
 
 [//]: # "Comment"
 
-[//]: # (Full version in [PDF](http://haogao.github.io/files/CV_HG_updated_2020.pdf))
+[//]: # "(Full version in [PDF](http://haogao.github.io/files/CV_HG_updated_2020.pdf))"
 
 ### 2026 
 
